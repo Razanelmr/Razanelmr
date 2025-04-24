@@ -1,4 +1,4 @@
-### 👋 Hello! I'm Razane Lama
+### 👋 Hello! I'm Razane Lamara
 
 I'm a passionate **Mobile Developer** with **2 years of hands-on experience** building modern, responsive, and scalable mobile applications. I specialize in **Flutter** and cross-platform development, turning ideas into sleek, functional apps.
 
