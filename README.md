@@ -10,7 +10,7 @@ I'm a passionate **Mobile Developer** with **2 years of hands-on experience** bu
 
 ### 💼 Projects & Experience
 - Developed and deployed several apps, including a **SOS Ambulance App**
-- Lead mobile development in educational projects like **Aspire Up**
+- Lead mobile development in educational projects like **E-learning**
 - Teaching live online mobile dev courses to empower the next wave of devs
 
 ### 🛠 Tech Stack
