@@ -19,4 +19,4 @@ I'm a passionate **Mobile Developer** with **2 years of hands-on experience** bu
 - **Tools:** Git, GitHub, Android Studio, VS Code  
 
 ### 📫 Let's Connect  
-- 📧 razanelama@email.com  
+- 📧 razane.lamara@univ-constantine2.dz
