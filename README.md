@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm RAZANE LAMARA</h1>
 <h3 align="center">I'm a passionate Mobile Developer with 2 years of hands-on experience building modern, responsive, and scalable mobile applications. I specialize in Flutter and cross-platform development, turning ideas into sleek, functional apps.</h3>
 
-- 🔭 I’m currently working on **Smart Touch Table for Restaurants in Algeria**
+- 🔭 I’m currently working on **Smart Applications in Algeria**
 
 - 🌱 I’m currently learning **Advanced Flutter, Firebase integration, and IoT interfaces for smart devices**
 
